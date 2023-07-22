@@ -54,7 +54,7 @@
         </tr>
         <tr>
             <td rowspan="5">
-                &nbsp;
+                2
             </td>
             <td>
                 <strong>(2일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
@@ -97,7 +97,7 @@
         </tr>
         <tr>
             <td rowspan="7">
-                &nbsp;
+                3
             </td>
             <td>
                 <strong>(3일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
@@ -156,7 +156,7 @@
         </tr>
         <tr>
             <td rowspan="3">
-                &nbsp;
+                4
             </td>
             <td>
                 <strong>(4일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
@@ -183,7 +183,6 @@
         </tr>
     </tbody>
 </table>
-
 
 ### 팀별 연구 프로젝트
 
