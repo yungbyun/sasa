@@ -189,8 +189,7 @@
 </table>
 
 ### 활동자료
-> * 머신러닝(분류): https://github.com/yungbyun/ai/blob/master/01.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EB%B6%84%EB%A5%98).pdf
-> * 머신러닝(예측): https://github.com/yungbyun/ai/blob/master/02.%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1).pdf
+> * 머신러닝(예측과 분류): https://github.com/yungbyun/sasa/blob/main/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98)_short.pdf
 
 
 
