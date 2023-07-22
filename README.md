@@ -175,7 +175,11 @@
         </tr>
         <tr>
             <td>
-                <strong>팀별 프로젝트 발표&nbsp;</strong>
+                <blockquote>
+                    <p>
+                        <strong>팀별 프로젝트 최종 발표 (평가 및 우수팀 선정)</strong>
+                    </p>
+                </blockquote>
             </td>
             <td>
                 팀활동
