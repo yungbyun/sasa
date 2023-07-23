@@ -56,11 +56,8 @@
             <td rowspan="6">
                 2
             </td>
-            <td>
+            <td colspan="2">
                 <strong>(2일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
-            </td>
-            <td>
-                &nbsp;
             </td>
         </tr>
         <tr>
@@ -101,11 +98,8 @@
             <td rowspan="7">
                 3
             </td>
-            <td>
+            <td colspan="2">
                 <strong>(3일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
-            </td>
-            <td>
-                &nbsp;
             </td>
         </tr>
         <tr>
@@ -160,11 +154,8 @@
             <td rowspan="3">
                 4
             </td>
-            <td>
+            <td colspan="2">
                 <strong>(4일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
-            </td>
-            <td>
-                &nbsp;
             </td>
         </tr>
         <tr>
