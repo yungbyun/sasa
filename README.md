@@ -7,10 +7,10 @@
     <tbody>
         <tr>
             <td rowspan="7">
-                1
+                1일차
             </td>
             <td colspan="2">
-                <strong>(1일차)&nbsp;오후&nbsp;1시&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
+                <strong>오후&nbsp;1시&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
             </td>
         </tr>
         <tr>
@@ -54,10 +54,10 @@
         </tr>
         <tr>
             <td rowspan="6">
-                2
+                2일차
             </td>
             <td colspan="2">
-                <strong>(2일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
+                <strong>오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
             </td>
         </tr>
         <tr>
@@ -96,10 +96,10 @@
         </tr>
         <tr>
             <td rowspan="7">
-                3
+                3일차
             </td>
             <td colspan="2">
-                <strong>(3일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
+                <strong>오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
             </td>
         </tr>
         <tr>
@@ -152,10 +152,10 @@
         </tr>
         <tr>
             <td rowspan="3">
-                4
+                4일차
             </td>
             <td colspan="2">
-                <strong>(4일차)&nbsp;오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
+                <strong>오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
             </td>
         </tr>
         <tr>
