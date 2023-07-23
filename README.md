@@ -191,9 +191,13 @@
 ### 활동자료
 > * 머신러닝(예측과 분류): https://github.com/yungbyun/sasa/blob/main/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98)_short.pdf
 
-### 지난 활동 보고서
-> * 
+### 동영상 강의자료
+> *
+> *
+> *
 
+### 지난 활동 보고서 (참고용)
+> * 
 
 ### 활동 보고서 작성 방법
 #### I. 서론 (어떤 계기로?, 무엇을?) 
