@@ -201,7 +201,7 @@
 > * 실습(식물생장예측): https://youtu.be/DZnpkKxeB-w
 
 ### 이전 활동 보고서 (참고용)
-> * 
+> * https://github.com/yungbyun/sasa/blob/main/sample.pdf
 
 ### 활동 보고서 작성 방법
 #### I. 서론 (어떤 계기로?, 무엇을?) 
