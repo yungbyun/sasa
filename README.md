@@ -192,9 +192,13 @@
 > * 머신러닝(예측과 분류): https://github.com/yungbyun/sasa/blob/main/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98)_short.pdf
 
 ### 동영상 강의자료
-> *
-> *
-> *
+> * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
+> * 캐글(Kaggle) 소개2, https://www.youtube.com/watch?v=VNOYpNItpdI
+> * 식물생장예측: https://youtu.be/RKXoSuwuX9I
+> * 성별예측: https://www.youtube.com/watch?v=JeYj5OHwQOw
+> * 실습(성별예측1): https://youtu.be/QBq2f_1gfZA
+> * 실습(성별예측2): https://youtu.be/4IEbdh62d2Y
+> * 실습(식물생장예측): https://youtu.be/DZnpkKxeB-w
 
 ### 지난 활동 보고서 (참고용)
 > * 
