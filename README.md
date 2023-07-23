@@ -53,7 +53,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="5">
+            <td rowspan="6">
                 2
             </td>
             <td>
@@ -67,16 +67,13 @@
             <td>
                 데이터 사이언스를 위한 AI와 머신러닝 이해하기&nbsp;
             </td>
-            <td>
-                &nbsp;
+            <td rowspan="2">
+                교수
             </td>
         </tr>
         <tr>
             <td>
                 데이터 과학과 서비스 (캐글 사례발표)
-            </td>
-            <td>
-                &nbsp;
             </td>
         </tr>
         <tr>
@@ -89,10 +86,15 @@
         </tr>
         <tr>
             <td>
-                팀별 캐글 오픈소스 찾기 (데이터 포함)
+                캐글 오픈소스 (kaggle.com), 데이터 찾기 (<a href="https://www.jejudatahub.net/">jejudatahub.net</a>)
             </td>
-            <td>
+            <td rowspan="2">
                 멘토
+            </td>
+        </tr>
+        <tr>
+            <td>
+                오픈소스 + 데이터&nbsp;
             </td>
         </tr>
         <tr>
