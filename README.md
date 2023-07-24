@@ -198,9 +198,6 @@
 > * 실습(성별예측2): https://youtu.be/4IEbdh62d2Y
 > * 실습(식물생장예측): https://youtu.be/DZnpkKxeB-w
 
-### 이전 활동 보고서 (참고용)
-> * https://github.com/yungbyun/sasa/blob/main/report_sample.pdf
-
 ### 활동 보고서 작성 방법
 #### I. 서론 (어떤 계기로?, 무엇을?) 
 > ##### 1. 탐구 동기 . Movivation
@@ -221,3 +218,7 @@
 > ##### 2. 고찰 (리뷰 review와 같은 의미로, 탐구 결과르 해석하여 의미를 부여함으로써 결론에 이르는 내용을 기술함.)
 
 #### IV. 탐구 소감 (탐구를 통해 느낀 점과 배운 점은?)
+
+### 이전 활동 보고서 (참고용)
+> * https://github.com/yungbyun/sasa/blob/main/report_sample.pdf
+
