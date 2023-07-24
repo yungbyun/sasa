@@ -186,6 +186,9 @@
 > * (분류) 붓꽃(Iris) 인식 : https://www.kaggle.com/ash316/ml-from-scratch-with-iris
 > * (예측) 집값 예측 : https://www.kaggle.com/yungbyun/house-price-prediction-simple
 
+### 추가 오픈소스 리스트 (참고용)
+> * https://docs.google.com/spreadsheets/d/1SQg_rAgz_83E87_eMiK1EaSFEbSSn2PVBQq0QJ4b6J8/edit?usp=sharing
+
 ### 동영상 강의자료
 > * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
 > * 캐글(Kaggle) 소개2, https://www.youtube.com/watch?v=VNOYpNItpdI
