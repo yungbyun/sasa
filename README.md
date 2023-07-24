@@ -6,7 +6,7 @@
 <table>
     <tbody>
         <tr>
-            <td rowspan="7">
+            <td rowspan="6">
                 1일차
             </td>
             <td colspan="2">
@@ -15,20 +15,15 @@
         </tr>
         <tr>
             <td>
-                머신러닝 연구실 소개
+                머신러닝 연구실 및 멘토 소개
             </td>
-            <td rowspan="4">
+            <td rowspan="3">
                 교수
             </td>
         </tr>
         <tr>
             <td>
-                멘토 및 연구실 연구원 소개
-            </td>
-        </tr>
-        <tr>
-            <td>
-                멘토와의 협업을 통한 실습 및 구현 방법 소개
+                멘토와의 협업을 통한 실습 및 구현 방법&nbsp;
             </td>
         </tr>
         <tr>
@@ -91,7 +86,7 @@
         </tr>
         <tr>
             <td>
-                오픈소스 + 데이터&nbsp;
+                캐글 오픈소스 + 외부 데이터&nbsp;
             </td>
         </tr>
         <tr>
@@ -184,6 +179,8 @@
 ### 특강자료(pdf)
 > * 머신러닝(예측과 분류): https://github.com/yungbyun/sasa/blob/main/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98)_short.pdf
 
+### 오픈소스(opensource)
+> * (분류) 성별 알아맞히기 : 
 ### 동영상 강의자료
 > * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
 > * 캐글(Kaggle) 소개2, https://www.youtube.com/watch?v=VNOYpNItpdI
