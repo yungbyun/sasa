@@ -180,7 +180,11 @@
 > * 머신러닝(예측과 분류): https://github.com/yungbyun/sasa/blob/main/01.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D(%EC%98%88%EC%B8%A1-%EB%B6%84%EB%A5%98)_short.pdf
 
 ### 오픈소스(opensource)
-> * (분류) 성별 알아맞히기 : 
+> * (분류) 성별 알아맞히기 : https://www.kaggle.com/yungbyun/female-male-classification-original
+> * (예측) 식물 생장 예측하기 : https://www.kaggle.com/yungbyun/plant-diary-original2/
+> * (분류) 붓꽃(Iris) 인식 : https://www.kaggle.com/ash316/ml-from-scratch-with-iris
+> * (예측) 집값 예측 : https://www.kaggle.com/yungbyun/house-price-prediction-simple
+
 ### 동영상 강의자료
 > * 캐글(Kaggle) 소개1, https://www.youtube.com/watch?v=9GWb9yNcsvc&t=112s
 > * 캐글(Kaggle) 소개2, https://www.youtube.com/watch?v=VNOYpNItpdI
