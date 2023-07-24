@@ -49,7 +49,7 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="6">
+            <td rowspan="8">
                 2일차
             </td>
             <td colspan="2">
@@ -71,7 +71,7 @@
         </tr>
         <tr>
             <td>
-                <strong>팀별 연구개발 방향 토론</strong>
+                <strong>팀별 탐구 활동</strong>
             </td>
             <td>
                 팀활동
@@ -88,6 +88,22 @@
         <tr>
             <td>
                 캐글 오픈소스 + 외부 데이터&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <i><strong>팀별 발표 </strong></i>👍
+            </td>
+            <td>
+                팀활동
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>팀별 탐구 활동</strong>
+            </td>
+            <td>
+                팀활동
             </td>
         </tr>
         <tr>
@@ -108,6 +124,14 @@
         </tr>
         <tr>
             <td>
+                <strong>팀별 탐구 활동</strong>
+            </td>
+            <td>
+                팀활동
+            </td>
+        </tr>
+        <tr>
+            <td>
                 팀별 프로젝트 보고서 작성 방법
             </td>
             <td>
@@ -124,7 +148,7 @@
         </tr>
         <tr>
             <td>
-                다양한 모듈을 이용한 데이터 시각화&nbsp;(캐글 사례)&nbsp;
+                <i><strong>팀별 발표</strong></i> 👍
             </td>
             <td>
                 멘토
@@ -133,14 +157,6 @@
         <tr>
             <td>
                 <strong>팀별 프로젝트 설계/구현 및 보고서 작성</strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 연구개발 방향 토론</strong>
             </td>
             <td>
                 팀활동
@@ -164,11 +180,7 @@
         </tr>
         <tr>
             <td>
-                <blockquote>
-                    <p>
-                        <strong>팀별 프로젝트 최종 발표 (평가 및 우수팀 선정)</strong>
-                    </p>
-                </blockquote>
+                <i><strong>팀별 최종 발표 (평가 및 우수팀 선정)</strong></i><strong>👍</strong>
             </td>
             <td>
                 팀활동
