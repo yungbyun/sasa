@@ -7,7 +7,7 @@
 <table>
     <tbody>
         <tr>
-            <td rowspan="6">
+            <td rowspan="9">
                 1일차
             </td>
             <td colspan="2">
@@ -34,7 +34,23 @@
         </tr>
         <tr>
             <td>
-                <strong>팀별 소개 및 연구개발 방향 토론</strong>
+                데이터 사이언스를 위한 AI와 머신러닝 이해하기&nbsp;
+            </td>
+            <td>
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                데이터 과학과 서비스 (캐글 사례발표)
+            </td>
+            <td>
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>팀별 탐구 활동</strong>
             </td>
             <td>
                 팀활동
@@ -49,24 +65,19 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="8">
+            <td>
+                <strong>팀별 탐구 활동</strong>
+            </td>
+            <td>
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="6">
                 2일차
             </td>
             <td colspan="2">
                 <strong>오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                데이터 사이언스를 위한 AI와 머신러닝 이해하기&nbsp;
-            </td>
-            <td rowspan="2">
-                교수
-            </td>
-        </tr>
-        <tr>
-            <td>
-                데이터 과학과 서비스 (캐글 사례발표)
             </td>
         </tr>
         <tr>
@@ -92,7 +103,7 @@
         </tr>
         <tr>
             <td>
-                <i><strong>팀별 발표 </strong></i>👍
+                <i><strong>팀별 발표 #1 </strong></i>👍
             </td>
             <td>
                 팀활동
@@ -140,7 +151,7 @@
         </tr>
         <tr>
             <td>
-                <strong>팀별 연구개발 방향 토론</strong>
+                <strong>팀별 탐구 활동</strong>
             </td>
             <td>
                 팀활동
@@ -148,7 +159,7 @@
         </tr>
         <tr>
             <td>
-                <i><strong>팀별 발표</strong></i> 👍
+                <i><strong>팀별 발표 #2</strong></i> 👍
             </td>
             <td>
                 멘토
