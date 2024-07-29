@@ -6,198 +6,7 @@
 
 ### 주요 활동 내용
 
-<table>
-    <tbody>
-        <tr>
-            <td rowspan="9">
-                1일차
-            </td>
-            <td colspan="2">
-                <strong>오후 1시 ~ 오후 6시 </strong>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                머신러닝 연구실 및 멘토 소개
-            </td>
-            <td rowspan="3">
-                교수
-            </td>
-        </tr>
-        <tr>
-            <td>
-                멘토와의 협업을 통한 실습 및 구현 방법 
-            </td>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-            <td>
-                데이터 사이언스를 위한 AI와 머신러닝 이해하기 
-            </td>
-            <td>
-                 
-            </td>
-        </tr>
-        <tr>
-            <td>
-                데이터 과학과 서비스 (캐글 사례발표)
-            </td>
-            <td>
-                 
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 탐구 활동</strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td>
-                캐글(Kaggle) 가입 및 둘러보기
-            </td>
-            <td>
-                멘토
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 탐구 활동</strong>
-            </td>
-            <td>
-                 
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="6">
-                2일차
-            </td>
-            <td colspan="2">
-                <strong>오전 8시 30분 ~ 오후 6시 </strong>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 탐구 활동</strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td>
-                캐글 오픈소스 (kaggle.com), 데이터 찾기 (<a href="https://www.jejudatahub.net/">jejudatahub.net</a>)
-            </td>
-            <td rowspan="2">
-                멘토
-            </td>
-        </tr>
-        <tr>
-            <td>
-                캐글 오픈소스 + 외부 데이터 
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <i><strong>팀별 발표 #1 </strong></i>👍
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 탐구 활동</strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="7">
-                3일차
-            </td>
-            <td colspan="2">
-                <strong>오전 8시 30분 ~ 오후 6시 </strong>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                캐글에서 Pycaret 사용방법
-            </td>
-            <td>
-                멘토
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 탐구 활동</strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td>
-                팀별 프로젝트 보고서 작성 방법
-            </td>
-            <td>
-                교수
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 탐구 활동</strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <i><strong>팀별 발표 #2</strong></i> 👍
-            </td>
-            <td>
-                멘토
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 프로젝트 설계/구현 및 보고서 작성</strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="3">
-                4일차
-            </td>
-            <td colspan="2">
-                <strong>오전 8시 30분 ~ 오후 6시 </strong>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>팀별 프로젝트 설계/구현 및 보고서 작성 </strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <i><strong>팀별 최종 발표 (평가 및 우수팀 선정)</strong></i><strong>👍</strong>
-            </td>
-            <td>
-                팀활동
-            </td>
-        </tr>
-    </tbody>
-</table>
+<table><tbody><tr><td rowspan="10">1일차</td><td colspan="2"><strong>오후&nbsp;1시&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong></td><td>&nbsp;</td></tr><tr><td>머신러닝 연구실 소개</td><td rowspan="3">교수</td><td>&nbsp;</td></tr><tr><td>멘토 소개</td><td>&nbsp;</td></tr><tr><td>멘토와의 협업을 통한 실습 및 구현 방법 소개</td><td>&nbsp;</td></tr><tr><td>질의 응답</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>팀별 소개(팀원, 탐구 방향)</td><td>팀활동</td><td>&nbsp;</td></tr><tr><td>캐글(Kaggle)&nbsp;&amp; Google Colab 가입 및 둘러보기</td><td rowspan="2">멘토</td><td>&nbsp;</td></tr><tr><td>데이터 사이언스와 서비스(캐글 사례-기후 예측)</td><td>&nbsp;</td></tr><tr><td><strong>팀별 탐구활동 (팀별 프로젝트 방향 및 내용)</strong></td><td rowspan="2">팀활동</td><td>&nbsp;</td></tr><tr><td><strong>팀별 발표 (프로젝트명, 내용 개요 및 필요성, ppt)</strong></td><td>&nbsp;</td></tr><tr><td rowspan="6">2일차</td><td colspan="2"><strong>오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong></td><td>&nbsp;</td></tr><tr><td>데이터 사이언스를 위한 AI와 머신러닝 이해하기&nbsp;</td><td>교수&nbsp;</td><td>&nbsp;</td></tr><tr><td>데이터 과학과 서비스 (캐글 사례-KNN 등 패턴분류 알고리즘 소개)</td><td rowspan="2">멘토</td><td>&nbsp;</td></tr><tr><td>Github Copilot 또는 GPT를 이용한 코딩</td><td>&nbsp;</td></tr><tr><td><strong>팀별 탐구 활동 (팀별 프로젝트 수행)</strong></td><td rowspan="2">팀활동</td><td>&nbsp;</td></tr><tr><td><strong>팀별 발표 (프로젝트 수행 내용, ppt)</strong></td><td>&nbsp;</td></tr><tr><td rowspan="7">3일차</td><td colspan="2"><strong>오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong></td><td>&nbsp;</td></tr><tr><td>다양한 모듈을 이용한 데이터 분석</td><td>멘토</td><td>&nbsp;</td></tr><tr><td><strong>팀별 탐구 활동 (프로젝트 수행 &amp; 보고서 작성)</strong></td><td rowspan="2"><p>팀활동</p><p>&nbsp;</p></td><td>&nbsp;</td></tr><tr><td><strong>팀별 발표 (프로젝트 수행 내용, ppt)</strong></td><td>&nbsp;</td></tr><tr><td>데이터 시각화 캐글 사례</td><td>멘토</td><td>&nbsp;</td></tr><tr><td><strong>팀별 탐구 활동 (프로젝트 수행 &amp; 보고서 작성)</strong> 👍</td><td rowspan="2">팀활동</td><td>&nbsp;</td></tr><tr><td><strong>팀별 발표 (프로젝트 수행 내용, ppt)</strong></td><td>&nbsp;</td></tr><tr><td rowspan="4">4일차</td><td colspan="2"><strong>오전&nbsp;8시&nbsp;30분&nbsp;~&nbsp;오후&nbsp;6시&nbsp;</strong></td><td>&nbsp;</td></tr><tr><td><strong>팀별 탐구활동 (팀별 프로젝트 설계/구현 &amp; 보고서 작성)</strong></td><td rowspan="2">팀활동</td><td>&nbsp;</td></tr><tr><td><strong>팀별 최종 결과 발표 (프로젝트 수행 내용, ppt)</strong></td><td>&nbsp;</td></tr><tr><td><i>팀별 최종 발표 (평가 및 우수팀 선정)</i>👍</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
 ### 특강자료(pdf)
 
@@ -228,34 +37,36 @@
 
 #### I. 서론 (어떤 계기로?, 무엇을?)
 
-> ##### 1. 탐구 동기 . Motivation
->
+> ##### 1\. 탐구 동기 . Motivation
+> 
 > * 왜 이걸하게 되었지?
->
-> ##### 2. 탐구 목적 . Goal
->
+> 
+> ##### 2\. 탐구 목적 . Goal
+> 
 > * 탐구 목적은 매우 중요
 > * 예를 들어, 인류의 건강을 지키기 위하여, 지구 환경을 지키기 위하여, 농부에게 도움을 주기 위하여...
->
-> ##### 3. 탐구 목표 . Objective
->
+> 
+> ##### 3\. 탐구 목표 . Objective
+> 
 > * 그런 목적을 달성하기 위하여 설정하는 것
 > * 예를 들어, 암 진단 영상인식 기술 개발과 인식률 99% 이상 달성, 산불방지 시스템 개발과 한라산 전체를 모니터링, 정확도가 높은 농산물 생산량 예측 시스템 개발과 지자체 시스템에 연결
 
 #### II. 탐구 방법 (어떻게?)
 
-> ##### 1. 탐구 재료/도구 및 기구
->
-> ##### 2. 탐구 과정
+> ##### 1\. 탐구 재료/도구 및 기구
+> 
+> ##### 2\. 탐구 과정
 
 #### III. 탐구 결과 및 고찰 (결과는?)
 
-> ##### 1. 탐구 결과
->
-> ##### 2. 고찰 (리뷰 review와 같은 의미로, 탐구 결과르 해석하여 의미를 부여함으로써 결론에 이르는 내용을 기술함.)
+> ##### 1\. 탐구 결과
+> 
+> ##### 2\. 고찰 (리뷰 review와 같은 의미로, 탐구 결과르 해석하여 의미를 부여함으로써 결론에 이르는 내용을 기술함.)
 
 #### IV. 탐구 소감 (탐구를 통해 느낀 점과 배운 점은?)
 
 ### 이전 활동 보고서 (참고용)
 
 > * https://github.com/yungbyun/sasa/blob/main/report_sample.pdf
+> 
+
