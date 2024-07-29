@@ -14,10 +14,10 @@
 
 ### 오픈소스(opensource)
 
-> * (분류) 성별 알아맞히기 : https://www.kaggle.com/yungbyun/female-male-classification-original
 > * (예측) 식물 생장 예측하기 : https://www.kaggle.com/yungbyun/plant-diary-original2/
+> * (예측) 집값 예측 : https://www.kaggle.com/code/yungbyun/house-price-prediction-for-tutorial
+> * (분류) 성별 알아맞히기 : https://www.kaggle.com/yungbyun/female-male-classification-original
 > * (분류) 붓꽃(Iris) 인식 : https://www.kaggle.com/code/yungbyun/ml-from-scratch-with-iris-k
-> * (예측) 집값 예측 : https://www.kaggle.com/yungbyun/house-price-prediction-simple
 
 ### 추가 오픈소스 리스트 (참고용)
 
