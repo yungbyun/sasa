@@ -16,11 +16,19 @@
 > * [기후예측](https://github.com/yungbyun/sasa/blob/main/2024%20%EC%9E%90%EB%A3%8C%20%EA%B8%B0%ED%9B%84%EC%98%88%EC%B8%A1.pdf)
 
 ### 오픈소스(opensource)
-
 > * (예측) 식물 생장 예측하기 : https://www.kaggle.com/yungbyun/plant-diary-original2/
 > * (분류) 성별 알아맞히기 : https://www.kaggle.com/yungbyun/female-male-classification-original
 > * (예측) 집값 예측 : https://www.kaggle.com/code/yungbyun/house-price-prediction-for-tutorial
 > * (분류) 붓꽃(Iris) 인식 : https://www.kaggle.com/code/yungbyun/ml-from-scratch-with-iris-k
+
+#### 머신러닝 절차
+> Step1. ## 1. 데이터 읽고 정보 확인하기 
+> Step2. 데이터 시각화 및 분석
+> Step3. 데이터 전처리
+> Step4. 학습용, 테스트용으로 데이터 분할
+> Step5. 머신러닝 모델 학습과 테스트
+> Step6. 결론
+
 
 ### 추가 오픈소스 리스트 (참고용)
 
