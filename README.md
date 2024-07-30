@@ -22,12 +22,12 @@
 > * (분류) 붓꽃(Iris) 인식 : https://www.kaggle.com/code/yungbyun/ml-from-scratch-with-iris-k
 
 #### 머신러닝 절차
-> Step1. ## 1. 데이터 읽고 정보 확인하기 <br/>
-> Step2. 데이터 시각화 및 분석 <br/>
-> Step3. 데이터 전처리 <br/>
-> Step4. 학습용, 테스트용으로 데이터 분할 <br/>
-> Step5. 머신러닝 모델 학습과 테스트 <br/>
-> Step6. 결론 <br/>
+Step1. 데이터 읽고 정보 확인하기 <br/>
+Step2. 데이터 시각화 및 분석 <br/>
+Step3. 데이터 전처리 <br/>
+Step4. 학습용, 테스트용으로 데이터 분할 <br/>
+Step5. 머신러닝 모델 학습과 테스트 <br/>
+Step6. 결론 <br/>
 
 
 ### 추가 오픈소스 리스트 (참고용)
