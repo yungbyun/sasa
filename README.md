@@ -10,7 +10,7 @@
 
 ### 특강자료(pdf)
 
-> * 머신러닝(예측과 분류): https://github.com/yungbyun/sasa/blob/main/lecture.pdf
+> * [머신러닝(예측과 분류)](https://github.com/yungbyun/sasa/blob/main/lecture.pdf)
 > * [붓꽃의품종판별-분류](https://github.com/yungbyun/sasa/blob/main/%EB%B6%93%EA%BD%83%20%ED%92%88%EC%A2%85%20%ED%8C%90%EB%B3%84.pdf)
 > * [생성형AI를이용한코딩](https://github.com/yungbyun/sasa/blob/main/%EC%83%9D%EC%84%B1%ED%98%95%20AI%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%94%A9.pdf)
 
